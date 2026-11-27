@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="titulo_agenda">La meva agenda</string>
+    <string name="agregar_contacto">Afegeix un contacte</string>
+    <string name="datos_contacto">Dades del contacte</string>
+    <string name="nombre">Nom</string>
+    <string name="apellido">Cognom</string>
+    <string name="telefono">Telèfon</string>
+    <string name="email">Correu electrònic</string>
+    <string name="direccion">Adreça</string>
+    <string name="fecha_nacimiento">Data de naixement</string>
+    <string name="aceptar">Accepta</string>
+    <string name="cancelar">Cancel·la</string>
+    <string name="eliminar">Elimina</string>
+    <string name="agenda_vacia">Encara no hi ha contactes</string>
+    <string name="sin_telefono_ni_email">Sense telèfon ni correu electrònic</string>
+    <string name="nombre_obligatorio">Introdueix un nom</string>
+    <string name="eliminar_contacto">Elimina el contacte</string>
+    <string name="confirmar_eliminar">Vols eliminar %1$s de l\'agenda?</string>
+    <string name="llamar">Obre el marcador</string>
+    <string name="enviar_email">Redacta un correu electrònic</string>
+    <string name="telefono_vacio">Introdueix un número de telèfon</string>
+    <string name="email_vacio">Introdueix un correu electrònic</string>
+    <string name="sin_marcador">No hi ha cap aplicació per marcar el número</string>
+    <string name="sin_app_email">No hi ha cap aplicació de correu electrònic</string>
+</resources>

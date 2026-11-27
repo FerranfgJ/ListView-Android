@@ -1,0 +1,27 @@
+
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="titulo_agenda">Mi agenda</string>
+    <string name="agregar_contacto">Añadir contacto</string>
+    <string name="datos_contacto">Datos del contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Correo electrónico</string>
+    <string name="direccion">Dirección</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="agenda_vacia">Todavía no hay contactos</string>
+    <string name="sin_telefono_ni_email">Sin teléfono ni correo electrónico</string>
+    <string name="nombre_obligatorio">Introduce un nombre</string>
+    <string name="eliminar_contacto">Eliminar contacto</string>
+    <string name="confirmar_eliminar">¿Quieres eliminar a %1$s de la agenda?</string>
+    <string name="llamar">Abrir marcador</string>
+    <string name="enviar_email">Redactar correo electrónico</string>
+    <string name="telefono_vacio">Introduce un número de teléfono</string>
+    <string name="email_vacio">Introduce un correo electrónico</string>
+    <string name="sin_marcador">No hay una aplicación para marcar el número</string>
+    <string name="sin_app_email">No hay una aplicación de correo electrónico</string>
+</resources>
